@@ -1,7 +1,7 @@
 # NightwatchJS - Requests Custom Assertion
 
 A custom NightwatchJS assertion that enables validating outgoing browser HTTP requests, 
-while also enabling wildcards and regular expressions. Extremely useful for large scale automated E2E tests
+while also enabling wildcards and regular expressions. Very useful for large scale web automated E2E tests on desktop.
 
  Usage:
 
